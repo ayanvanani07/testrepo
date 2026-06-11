@@ -18,3 +18,10 @@
 .card p {
   color: #333;
 }
+
+.mahek-tim{
+    color: red;
+    background-color: #333;
+    width: 50%;
+    height: 50%;
+}
